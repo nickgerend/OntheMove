@@ -1,0 +1,52 @@
+Region,State,Diamond
+Northeast,Connecticut,UR
+Northeast,Maine,UR
+Northeast,Massachusetts,UR
+Northeast,New Hampshire,UR
+Northeast,Rhode Island,UR
+Northeast,Vermont,UR
+Northeast,New Jersey,UR
+Northeast,New York,UR
+Northeast,Pennsylvania,UR
+Midwest,Illinois,UL
+Midwest,Indiana,UL
+Midwest,Michigan,UL
+Midwest,Ohio,UL
+Midwest,Wisconsin,UL
+Midwest,Iowa,UL
+Midwest,Kansas,UL
+Midwest,Minnesota,UL
+Midwest,Missouri,UL
+Midwest,Nebraska,UL
+Midwest,North Dakota,UL
+Midwest,South Dakota,UL
+South,Delaware,LR
+South,Florida,LR
+South,Georgia,LR
+South,Maryland,LR
+South,North Carolina,LR
+South,South Carolina,LR
+South,Virginia,LR
+South,District of Columbia,LR
+South,West Virginia,LR
+South,Alabama,LR
+South,Kentucky,LR
+South,Mississippi,LR
+South,Tennessee,LR
+South,Arkansas,LR
+South,Louisiana,LR
+South,Oklahoma,LR
+South,Texas,LR
+West,Arizona,LL
+West,Colorado,LL
+West,Idaho,LL
+West,Montana,LL
+West,Nevada,LL
+West,New Mexico,LL
+West,Utah,LL
+West,Wyoming,LL
+West,Alaska,LL
+West,California,LL
+West,Hawaii,LL
+West,Oregon,LL
+West,Washington,LL
